@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplikacjaKontrahentów", "AplikacjaKontrahentów\AplikacjaKontrahentów.csproj", "{0253FADD-A4E6-4B52-9515-92CF7CC6B450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0253FADD-A4E6-4B52-9515-92CF7CC6B450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0253FADD-A4E6-4B52-9515-92CF7CC6B450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0253FADD-A4E6-4B52-9515-92CF7CC6B450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0253FADD-A4E6-4B52-9515-92CF7CC6B450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1211D62-DAFB-4139-BB14-A99B606250E6}
+	EndGlobalSection
+EndGlobal
